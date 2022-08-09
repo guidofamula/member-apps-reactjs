@@ -1,0 +1,8 @@
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin: 24px 0;
+  border: 1px dashed black;
+  padding: 16px;
+  border-radius: 8px;
+}

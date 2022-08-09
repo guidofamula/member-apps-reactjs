@@ -1,0 +1,21 @@
+.contact-input {
+  border: 1px dashed black;
+  padding: 16px;
+  margin: 14px 0;
+  border-radius: 8px;
+  margin-bottom: 32px;
+}
+ 
+.contact-input input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  font-family: 'Inter', sans-serif;
+}
+ 
+.contact-input button {
+  width: 100%;
+  padding: 8px;
+  font-family: 'Inter', sans-serif;
+}
